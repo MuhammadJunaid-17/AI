@@ -1,0 +1,18 @@
+# Rocky Travel Agency ✈️
+
+## Project Description
+
+Rocky Travel Agency is a simple Python program for booking holiday packages.
+The user can select a destination, enter the number of tickets, and calculate
+the total booking cost.
+
+## Destinations
+
+- Paris - $1200 per person
+- Tokyo - $1500 per person
+- London - $1000 per person
+- Dubai - $800 per person
+
+## Google Colab
+
+👉 [https://colab.research.google.com/drive/1AivKAd3EghJals-VQ9n5yulXJeltv0qA?usp=sharing]
