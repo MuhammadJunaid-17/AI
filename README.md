@@ -280,7 +280,7 @@ The complete project is available in Google Colab.
 
 **[▶️ Open Rocky Travel Agency in Google Colab](https://colab.research.google.com/drive/1AivKAd3EghJals-VQ9n5yulXJeltv0qA?usp=sharing)**
 
-> **Note:** Make sure the Colab notebook sharing permissions allow the intended users to view/access the notebook.
+
 
 Google Colab notebooks can contain code, text, comments, and saved outputs, while the runtime environment itself is not shared with the notebook. Therefore, required setup/install cells should be included in the notebook when necessary.
 
